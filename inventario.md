@@ -5,4 +5,6 @@
 ## Periferiche
 - [Mouse](periferiche/mouse.md)
 - [Tastiere](periferiche/tastiere.md)
+
+  ---
 Elettronica Padovana

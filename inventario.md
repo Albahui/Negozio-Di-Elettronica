@@ -1,4 +1,5 @@
-Maria Fuensanta Trigueros Hernandez 2133487,  Alba Hui Larrosa Serrano 2133266
+- Maria Fuensanta Trigueros Hernandez 2133487
+- Alba Hui Larrosa Serrano 2133266
 ---
 ## Componenti
 - [Processori](componenti/processori.md)

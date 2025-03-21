@@ -1,4 +1,4 @@
 2133487, 2133266
 
-Processori
+- [Processori] (processori.md)
 Schede Madri

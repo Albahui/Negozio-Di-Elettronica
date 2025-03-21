@@ -1,3 +1,3 @@
 2133487, 2133266
-
-Processori
+-AMD
+-Intel Core

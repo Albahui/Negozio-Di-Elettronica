@@ -1,4 +1,5 @@
-2133487, 2133266
+- 2133487
+- 2133266
 
 # Tastiere
 Logitech G915 LIGHTSPEED Wireless (RGB, switch GL Tactile)
